@@ -1,6 +1,6 @@
-### GAME2048
+# GAME2048
 Java implementation of the classic 2048 tile sliding puzzle game with a dynamic Swing GUI.
-# Features ✨
+## Features ✨
 - Configurable board size (Y x Y) prompted at game start 📝.
 - Smooth tile sliding mechanics controlled by keyboard arrow keys ⬅️⬆️➡️⬇️.
 - Tiles merge by summing identical adjacent numbers ➕.
@@ -9,6 +9,6 @@ Java implementation of the classic 2048 tile sliding puzzle game with a dynamic 
 - Game automatically detects win (2048 tile) 🥇 and game-over conditions 💥.
 - Restart game option available via GUI button 🔄.
 - Modular, readable code utilizing functional programming principles 💡.
-# Controls 🎮
+## Controls 🎮
 - Use arrow keys (Up, Down, Left, Right) to slide the tiles on the board 🔼🔽◀️▶️.
 - Click the "Restart" button 🔄 to start a new game.
